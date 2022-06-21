@@ -1,16 +1,15 @@
-# flutter_application_3
+# Projeto In-Houses
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Integrantes:
+  - Bárbara Geovanna Lima Sol
+  - Gabriel Bezerra Belém
+  - Gabriel Duarte Pereira
+  
+- Anotações:
+  - Executado pelo modelo Pixel 2 API 30 (Android-x86 emulator) com o android studio
+  
+- Modelos:
+  - Business Model Canvas: Business Model Canvas - In-Houses.pdf
+  - Elevator Pitch: Elevator Pitch - In-Houses.pdf
+ 
+- Vídeo: https://youtu.be/8YQsx3frHfY
